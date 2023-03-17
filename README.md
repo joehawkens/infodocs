@@ -1,1 +1,9 @@
 # infodocs
+
+
+## Frontend
+
+
+## Backend
+- MongoDB
+
