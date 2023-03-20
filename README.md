@@ -14,4 +14,5 @@
 
 ## Notes
 - Add categories feature to each document
-- Structure DB, determine if NoSQL or SQL.
+- Add "link not working" or "reccomend fix" feature for bug reports on docs.
+
