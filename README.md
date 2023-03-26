@@ -2,14 +2,11 @@
 
 
 ## Frontend
-- PHP
-- HTML
-- CSS
-
+- Razor Pages
 
 ## Backend
-- MongoDB
-- .NET
+- MongoDB (Database)
+
 
 
 ## Notes
