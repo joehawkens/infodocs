@@ -1,11 +1,14 @@
 # infodocs
 
 
+ASP.NET Core - Server-side framework
+
 ## Frontend
-- Razor Pages
+- Razor Views
 
 ## Backend
 - MongoDB (Database)
+- .NET core MVC
 
 
 
