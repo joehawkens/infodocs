@@ -1,1 +1,40 @@
-* .vs
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Resharper files
+_ReSharper*/
+
+# Windows log files
+*.log
+
+# User-specific files
+*.suo
+*.user
+
+# Visual Studio profiler files
+*.psess
+*.vsp
+*.vspx
+
+# JetBrains Rider files
+.idea/
+*.rider*
+
+# Compiled .NET assemblies
+*.dll
+*.exe
+*.pdb
+
+# Node.js files
+node_modules/
